@@ -22,4 +22,4 @@ Type `cd ~` to navigate back to home directory.
 1. Click on folder icons to get inside the folder.
 2. Right click, ctrl+shft+i, ctrl+shft+j, ctrl+u throws **Access denied** message.
 3. Audio effect for commands and output.
-
+4. Terminal can be draggable anywhere on window.
